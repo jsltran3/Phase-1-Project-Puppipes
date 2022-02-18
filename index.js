@@ -15,8 +15,8 @@ let countStart = () => document.getElementById("fg-likes");
 let countStart2 = () => document.getElementById("fg-likes2");
 let likeButton = () => document.getElementById('like-button');
 let likeButton2 = () => document.getElementById('like-button2');
-const newBreedName = ()=> document.querySelector('h2#fg-title');
-const mainForm = ()=> document.querySelector('form');
+const newBreedName = () => document.querySelector('h2#fg-title');
+const mainForm = () => document.querySelector('form');
 
 /** Event Listeners **/
 const attachImageRender = () => { 
