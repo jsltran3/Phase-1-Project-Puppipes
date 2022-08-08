@@ -1,6 +1,5 @@
 
 # Hot Doggo: They're Good Dogs, Brent 
-# Wedding Guest: Seating Made Easy
 
 ## Description
 
